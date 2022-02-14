@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "23179D047214D9AAECA52896C1400CDE",
+  "keywordClasses": [
+    {
+      "name": "SetDate",
+      "keywordMethods": [
+        {
+          "name": "addBeforeToday",
+          "parameters": [
+            {
+              "name": "addBeforeToday",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
